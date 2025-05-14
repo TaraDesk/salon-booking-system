@@ -63,8 +63,14 @@ php artisan key:generate
 2. Run migrations and seed the database:
 
    ```bash
-   php artisan migrate:fresh --seed
+   php artisan migrate --seed
    ```
+
+### Link the storage into the public folder 
+
+```bash
+php artisan storage:link
+```
 
 ### Run the Application
 
