@@ -66,7 +66,7 @@ php artisan key:generate
    php artisan migrate --seed
    ```
 
-### Link the storage into the public folder 
+### Link Storage into Public Folder 
 
 ```bash
 php artisan storage:link
