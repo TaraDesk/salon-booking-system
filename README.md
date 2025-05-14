@@ -31,7 +31,7 @@ The **Salon Booking System** is a Laravel-based web application that simplifies 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/salon-booking-system.git
+git clone https://github.com/TaraDesk/salon-booking-system.git
 cd salon-booking-system
 ```
 
